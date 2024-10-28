@@ -74,7 +74,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.4.2)
     warnings_logger (0.1.1)
-    yard (0.9.25)
+    yard (0.9.37)
     zeus (0.15.14)
       method_source (>= 0.6.7)
 
